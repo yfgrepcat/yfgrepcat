@@ -10,6 +10,7 @@
     * L. Ramalho, *Fluent Python, 2nd Edition*. O’Reilly, 2022.
 
 #### Tech Stack
+
 <div style="display: flex; gap: 2px; align-items: center;">
     <img src="https://iconic-api.onrender.com/light/python" width="32px" />
     <img src="https://iconic-api.onrender.com/light/linux" width="32px" />
@@ -24,6 +25,7 @@
 </div>
 
 #### Learning
+
 <div style="display: flex; gap: 2px; align-items: center;">
     <img src="https://iconic-api.onrender.com/light/scikit-learn" width="32px" />
     <img height="26" width="26" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/neo4j.svg" />
