@@ -12,24 +12,24 @@
 #### Tech Stack
 
 <div style="display: flex; gap: 2px; align-items: center;">
-    <img src="https://iconic-api.onrender.com/light/python" width="32px" />
-    <img src="https://iconic-api.onrender.com/light/linux" width="32px" />
-    <img src="https://iconic-api.onrender.com/light/git" width="32px" />
-    <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/cisco.svg" />
-    <img src="https://iconic-api.onrender.com/light/docker" width="32px" />
-    <img src="https://iconic-api.onrender.com/light/java" width="32px" />
-    <img height="26" width="26" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/vault.svg" />
-    <img height="26" width="26" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/proxmox.svg" />
-    <img src="https://iconic-api.onrender.com/light/aws" width="32px" />
-    <img src="https://iconic-api.onrender.com/light/terraform" width="32px" />
+    <img src="https://iconic-api.onrender.com/light/python" height="32" width="32px" />
+    <img src="https://iconic-api.onrender.com/light/linux" height="32" width="32px" />
+    <img src="https://iconic-api.onrender.com/light/git" height="32" width="32px" />
+    <img style="display: block;" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/cisco.svg" />
+    <img src="https://iconic-api.onrender.com/light/docker" height="32" width="32px" />
+    <img src="https://iconic-api.onrender.com/light/java" height="32" width="32px" />
+    <img style="display: block;" height="26" width="26" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/vault.svg" />
+    <img style="display: block;" height="26" width="26" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/proxmox.svg" />
+    <img src="https://iconic-api.onrender.com/light/aws" height="32" width="32px" />
+    <img src="https://iconic-api.onrender.com/light/terraform" height="32" width="32px" />
 </div>
 
 #### Learning
 
 <div style="display: flex; gap: 2px; align-items: center;">
-    <img src="https://iconic-api.onrender.com/light/scikit-learn" width="32px" />
-    <img height="26" width="26" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/neo4j.svg" />
-    <img height="26" width="26" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/nixos.svg" />
-    <img src="https://iconic-api.onrender.com/light/go" width="32px" />
-    <img src="https://iconic-api.onrender.com/light/pytorch" width="32px" />
+    <img src="https://iconic-api.onrender.com/light/scikit-learn" height="32" width="32px" />
+    <img style="display: block;" height="26" width="26" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/neo4j.svg" />
+    <img style="display: block;" height="26" width="26" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/nixos.svg" />
+    <img src="https://iconic-api.onrender.com/light/go" height="32" width="32px" />
+    <img src="https://iconic-api.onrender.com/light/pytorch" height="32" width="32px" />
 </div>
