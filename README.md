@@ -8,6 +8,9 @@
     * J. Alammar and Maarten Grootendorst, *Hands-On Large Language Models*. O’Reilly, 2024.
     * John Myles White, *Bandit Algorithms for Website Optimization*. O’Reilly, 2012.
     * L. Ramalho, *Fluent Python, 2nd Edition*. O’Reilly, 2022.
+      
+* Current challenge:
+    * CCNP ENCOR (350-401) exam preparation
 
 #### Tech Stack
 
